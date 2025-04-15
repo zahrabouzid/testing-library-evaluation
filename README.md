@@ -7,7 +7,7 @@ d'erreur de l'api, elle devra renvoyer un objet { message : "les champs food et
 drink sont obligatoires" } dans le cas où un des 2 champs est vide.
 
 ## Premier scénario : cas passant
-zahra bouzid
+
 1 - l'utilisateur est sur la Home
 
 2 - Un titre "Welcome home" est dans le document
